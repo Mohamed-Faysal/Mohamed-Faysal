@@ -4,9 +4,9 @@ It's Mohamed Faysal  ![](https://user-images.githubusercontent.com/18350557/1763
 Data Analyst
 ------------
 
-* 🖥️  See my portfolio at [Mohamed Faysal](http://flowcv.me/mohamedfaysal)
+* 🖥️  Check my portfolio & Know me more at [Mohamed Faysal](http://flowcv.me/mohamedfaysal)
 * ✉️  You can contact me at [mohamedfaysalelzubair@gmail.com](mailto:mohamedfaysalelzubair@gmail.com)
-* 🧠  I'm learning Business Analyst as a plus for career path
+* 🧠  I'm currently learning Business Analyst as a plus for career path
 
 <a href="https://www.x.com/MohamedFaysal7" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/MohamedFaysal7?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
