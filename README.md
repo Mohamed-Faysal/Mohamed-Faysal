@@ -5,7 +5,7 @@ Data Analyst
 ------------
 
 * 🖥️  Check my portfolio & Know me more at [Mohamed Faysal](http://flowcv.me/mohamedfaysal)
-* ✉️  You can contact me at [mohamedfaysalelzubair@gmail.com](mailto:mohamed.faysaal@gmail.com)
+* ✉️  You can contact me at [mohamed.faysaal@gmail.com](mailto:mohamed.faysaal@gmail.com)
 * 🧠  I'm currently learning Business Analyst as a plus for career path
 
 <a href="https://www.x.com/MohamedFaysal7" target="_blank" rel="noreferrer"><img
